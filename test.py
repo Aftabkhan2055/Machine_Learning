@@ -1,2 +1,0 @@
-import vmm
-vmm.display()
